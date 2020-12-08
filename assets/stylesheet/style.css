@@ -1,0 +1,45 @@
+body {
+  color: #fff;
+  background: rgb(197, 169, 169);
+}
+
+section {
+  background: rgb(94, 94, 235);
+  margin: 10% auto;
+  width: 80%;
+  border-radius: 5px;
+}
+
+.content {
+  padding: 2rem;
+}
+
+.title {
+  text-decoration: underline;
+  font-size: 2rem;
+}
+
+input {
+  width: 80%;
+  padding: 1rem;
+  border-radius: 5px;
+}
+
+.btn {
+  color: #fff;
+  background: purple;
+  width: 30%;
+  padding: 1rem 2rem;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.footer {
+  background: rgb(80, 141, 233);
+  text-align: center;
+  width: 50%;
+  margin: 1% auto;
+  border-radius: 5px;
+  padding: 1px;
+}
+
